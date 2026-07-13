@@ -66,8 +66,4 @@ dashboard.
   notebook — the deployed dashboard (`app.py`) only actually needs pandas, numpy,
   matplotlib, statsmodels, scikit-learn, and streamlit.
 
-## Live Dashboard
 
-Streamlit Community Cloud link: *[add your deployed link here]*
-
-Google Colab link: *[add your Colab link here]*
