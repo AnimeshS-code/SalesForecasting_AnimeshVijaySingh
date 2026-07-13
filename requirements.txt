@@ -1,0 +1,12 @@
+Requirements
+
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+pmdarima
+prophet
+xgboost
+scikit-learn
+streamlit
